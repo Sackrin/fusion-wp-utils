@@ -6,5 +6,5 @@ Simple utility library for managing common WordPress tasks. Mainly used in suppo
 Install using the following composer require statment.
 
 ```
-composer require sackrin/wordpress-utils
+composer require sackrin/boilerplate-utils
 ```
